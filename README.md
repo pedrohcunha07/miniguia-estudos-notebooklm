@@ -27,10 +27,10 @@ Para alimentar a base de conhecimento no NotebookLM, foram selecionadas **4 font
 
 | # | Fonte / Título | Tipo de Documento | Foco / Conteúdo |
 |---|---|---|---|
-| 1 |
-| 2 | 
-| 3 | 
-| 4 |
+| 1 | [Engenharia de Requisitos - (Gran Cursos Online)](https://blog.grancursosonline.com.br/engenharia-de-requisitos/) | Página Web/Blog | Introdução e conteúdo geral/superficial sobre o que é cobrado em concursos de TI/ER |
+| 2 | [Introdução a Engenharia de Requisitos - (Dev Media)](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034) | Página Web/Blog | Introdução de conteúdo sobre ER, até gerência e qualidade de requisitos |
+| 3 | [Engenharia de Requisitos: Um Resumo Rumo à Prática - (Brasil Acadêmico)](https://blog.brasilacademico.com/2026/03/engenharia-de-requisitos-um-resumo-rumo.html) | Página Web/Blog | Resumo de ER, com metodologia semelhante á conteúdo de aula com fontes de professores |
+| 4 | [Engenharia de Requisitos: o que é, como funciona e quais fases existem - (QueroBolsa)](https://querobolsa.com.br/revista/engenharia-de-requisitos) | Página Web/Blo | Introdução a engenharia de requisitos e suas fases |
 
 ---
 
