@@ -1,6 +1,4 @@
-
-
-readme_content = """# Caderno Temático: Engenharia de Requisitos com NotebookLM
+# Caderno Temático: Engenharia de Requisitos com NotebookLM
 
 **Projeto prático desenvolvido para o desafio de projeto da [DIO (Digital Innovation One)](https://www.dio.me/).**  
 Este repositório é um caderno de estudos interativo sobre **Engenharia de Requisitos em Software**, construído utilizando o **Google NotebookLM** como ferramenta de aprendizagem ativa, curadoria de conhecimento e assistência orientada por Inteligência Artificial.
