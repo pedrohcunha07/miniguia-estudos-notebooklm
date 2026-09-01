@@ -54,3 +54,34 @@ Nesta seção estão documentadas as interações com o NotebookLM, demonstrando
   Com base estritamente nos documentos carregados, atue como um Engenheiro de Software Sênior e elabore um resumo em tabela comparando Requisitos Funcionais (RF), Requisitos Não-Funcionais (RNF) e Regras de Negócio (RN). Inclua para cada um: definição, 2 exemplos práticos de um sistema e-commerce e os critérios de validação.
 
 * **Resposta Obtida:** Resposta mais aprofundada e coesa, com tabelas explicativas e visão arquitetural.
+
+## Resumo
+
+A Engenharia de Requisitos (ER) sistematiza as atividades de descoberta, análise, especificação, validação e gerência das necessidades em sistemas de software. Suas etapas dividem-se em Produção (levantamento, registro, verificação e validação) e Gerência (controle de mudanças, configuração, rastreabilidade e qualidade);
+Na Elicitação, descobrem-se as necessidades por técnicas como entrevistas, workshops (JAD), prototipação, análise documental e observação
+
+A Especificação formaliza esses requisitos de forma correta, completa, clara, consistente, modificável, verificável, priorizada e rastreável. A Verificação garante que os requisitos foram descritos corretamente, enquanto a Validação assegura que o produto atende às necessidades reais.
+
+Requisitos dividem-se em Funcionais (ações que o sistema executa) e Não Funcionais (atributos de qualidade e restrições técnicas). Existem ainda os requisitos de Negócio (metas corporativas de alto nível) e os de Domínio (regras e fórmulas do setor específico).
+
+A Rastreabilidade mapeia o caminho de cada requisito desde a sua origem até a implementação no código e nos testes. A priorização pelo método MoSCoW separa o escopo em quatro categorias hierárquicas essenciais (Must, Should, Could, Won't). A Justificativa Lean define o MVP focado no aprendizado rápido, combatendo desperdícios de esforço, como o desenvolvimento de funcionalidades extras.
+
+## Glossário de Conceitos
+
+* **Engenharia de Requisitos (ER):** Disciplina que engloba as atividades sistemáticas e repetíveis destinadas a descobrir, analisar, documentar, validar e gerenciar necessidades e restrições de um sistema.
+* **Requisitos Funcionais (RF):** Descrevem as funcionalidades, comportamentos e serviços diretos que o sistema oferecerá ao usuário.
+* **Requisitos Não Funcionais (RNF):** Definem como o sistema deve se comportar, determinando restrições técnicas e atributos de qualidade (como usabilidade, segurança, desempenho e disponibilidade).
+* **Requisitos de Negócio:** Especificações de alto nível que justificam o projeto, explicitando o "porquê" de sua criação.
+* **Requisitos de Domínio:** Características, restrições e regras de cálculo específicas do setor ou ambiente de negócio no qual o software se aplica.
+* **Elicitação (ou Levantamento):** Processo social e técnico para extrair, descobrir e refinar requisitos junto aos stakeholders.
+* **Verificação:** Atividade realizada pela equipe técnica para conferir se as especificações foram escritas de forma adequada, consistente e sem ambiguidades ("estamos construindo o produto corretamente?").
+* **Validação:** Atividade realizada junto aos stakeholders para obter o aceite formal e assegurar que as especificações refletem suas necessidades reais ("estamos construindo o produto certo?").
+**Rastreabilidade:** Capacidade de acompanhar a história de um requisito em nível horizontal ou vertical, desde sua origem até sua implementação em artefatos de código ou testes.
+* **MoSCoW:** Técnica de priorização de requisitos que os classifica em Must have (essencial), Should have (importante), Could have (desejável) e Won't have (descartado na versão atual).
+* **Produto Mínimo Viável (MVP):** Versão enxuta do produto contendo apenas as funcionalidades estritamente necessárias para entregar a proposta de valor central e validar hipóteses de mercado com menor esforço de desenvolvimento.
+* **Justificativa Lean (Lean Business Case):** Enquadramento de uma iniciativa de negócio sob condições de incerteza, enxergando-a como uma hipótese testável cujos resultados são medidos iterativamente por indicadores.
+* **Desperdício (Muda):** No contexto de desenvolvimento de software, é todo esforço empregado que não gera valor ou aprendizado imediato ao cliente, tendo as "funcionalidades extras" como seu exemplo mais crítico.
+* **História de Usuário (User Story):** Unidade de trabalho ágil e leve que descreve um recurso de forma não técnica sob a perspectiva do usuário final.
+* **Estrutura-se com base nos 3 Cs:** Cartão, Conversação e Confirmação.
+* **INVEST:** Acrônimo que norteia os critérios de qualidade para a redação de histórias de usuário (Independent, Negotiable, Valuable, Estimable, Small, Testable).
+* **Baseline:** Marco de desenvolvimento em que um conjunto de itens de configuração (especificações e diagramas) é estabilizado e colocado sob controle formal de mudanças
