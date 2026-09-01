@@ -43,7 +43,14 @@ Nesta seção estão documentadas as interações com o NotebookLM, demonstrando
 * **Resposta Obtida:** Resposta vaga e excessivamente teórica, abordando tópicos gerais de TI sem profundidade.
 * **Refinamento:** Aplicou-se técnica de *Role-Playing* e restrição de escopo com base nos documentos enviados.
 
-#### **Interação 2: Prompt Estruturado (Iteração Bem-Sucedida)**
+#### **Interação 2: Tentativa Genérica 2**
+* **Prompt Utilizado:** `"Explique a diferença entre requisitos funcionais e não funcionais."`
+* **Resposta Obtida:** Resposta vaga, mas com leve aprofundamento no conteúdo através de tabelas.
+* **Refinamento:** Aplicou-se escopo com base nos documentos enviados.
+
+#### **Interação 3: Prompt Estruturado (Iteração Bem-Sucedida)**
 * **Prompt Utilizado:**
   ```text
   Com base estritamente nos documentos carregados, atue como um Engenheiro de Software Sênior e elabore um resumo em tabela comparando Requisitos Funcionais (RF), Requisitos Não-Funcionais (RNF) e Regras de Negócio (RN). Inclua para cada um: definição, 2 exemplos práticos de um sistema e-commerce e os critérios de validação.
+
+* **Resposta Obtida:** Resposta mais aprofundada e coesa, com tabelas explicativas e visão arquitetural.
